@@ -14,7 +14,16 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
 
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'ecfaa7d3d54d422cb3d4fa962c71e676',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/ecfaa7d3d54d422cb3d4fa962c71e676/invoke.js"></scr' + 'ipt>');
+</script>
 
 ## Features
 
