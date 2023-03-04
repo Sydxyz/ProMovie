@@ -9,17 +9,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "5447675774:AAHUMTxmaSmPr33gynzHQiuoEO0Xbv3lmoY",
+            "value": "0000000000:xxxxxxxxxxxxx",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "10992058",
+            "value": "000000",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "2fbb57a8a00b544bb09a2e3f80cedaf7",
+            "value": "0000000000ooooooooo000000ooooooooo0000000",
             "required": true
         },
         "CHANNELS": {
@@ -28,7 +28,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "1733124290",
+            "value": "10000000",
             "required": true
         },
         "PICS": {
@@ -37,7 +37,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "value": "-1001781715631",
+            "value": "-100000000",
             "required": true                              
         },
         "AUTH_CHANNEL": {
@@ -56,7 +56,7 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI.",
-            "value": "mongodb+srv://NTv:NTv@cluster0.k4k2xky.mongodb.net/?retryWrites=true&w=majority",
+            "value": "",
             "required": true
         },
         "DATABASE_NAME": {
